@@ -2,13 +2,9 @@
 name: Chris Lawrence
 layout: team
 photo_image: /uploads/chris-lawrence.jpeg
-role: Head of Programs
+role: Jefe de Programas
 bio_text: >-
-  Chris is an experienced nonprofit professional who has spent the last 15 years
-  as a dedicated educator, network builder, and advocate for non-profit
-  organizations. Chris is currently the Head of Programs at the Interledger
-  Foundation. He oversees all aspects of the programatic activity of the
-  foundation.
+  Chris es un profesional con experiencia en organizaciones sin fines de lucro que ha pasado los últimos 15 años como educador dedicado, constructor de redes y defensor de organizaciones sin fines de lucro. Chris es actualmente el Jefe de Programas de la Fundación Interledger. Supervisa todos los aspectos de la actividad programática de la fundación.
 linkedin_link: https://www.linkedin.com/in/chrislarry/
 twitter_link: https://twitter.com/chrislarry33
 ---
