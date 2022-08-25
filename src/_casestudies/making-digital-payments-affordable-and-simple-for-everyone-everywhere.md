@@ -1,75 +1,15 @@
 ---
 name:
-title: 'Making Digital Payments Affordable and Simple for Everyone, Everywhere'
+title: 'Pagos digitales asequibles y sencillos para todos, en todas partes'
 subtitle:
 layout: case-studies
 featured_image: /uploads/mojaloop-foundation-orange2.jpg
 featured_text: >-
-  The Mojaloop Foundation is a charitable nonprofit with a vision of universal
-  financial inclusion. Its mission is to enable developing countries to design
-  digital financial services that are accessible and inclusive to all.
+  La Fundación Mojaloop es una organización benéfica sin fines de lucro con una visión de universal
+   Inclusión financiera. Su misión es permitir que los países en desarrollo diseñen
+   servicios financieros digitales que sean accesibles e inclusivos para todos.
 write_up_html: >-
-  <p><strong>Payments Working Together</strong></p><p>The Mojaloop Foundation is
-  a charitable nonprofit with a vision of universal financial inclusion. Its
-  mission is to enable developing countries to design digital financial services
-  that are accessible and inclusive to all.&nbsp;</p><p>The Foundation&rsquo;s
-  Mojaloop open source software is a blueprint for how to help organizations
-  build interoperable, real-time payment systems that enable seamless,
-  affordable financial services between individual users, banks, government
-  entities, merchants, mobile network operators, service providers and
-  technology companies.</p><p><strong>Interoperability is the
-  Challenge</strong></p><p>While mobile money services exist in nearly 100
-  countries, 1.7 billion people still lack access to digital financial services,
-  despite most owning a mobile phone, according to the World Bank's Global
-  Findex. Increasing access to digital financial services and financial tools is
-  critical to accelerating the rate at which the financially excluded move into
-  the formal financial system, especially in developing economies.</p><p>The
-  primary challenge is that it can be expensive and complex to build
-  interoperable systems that are inclusive to all. The result is that many
-  remain unbanked because of the resulting high transaction fees and the
-  requirements to be a customer across multiple banking, mobile and digital
-  payment platforms.&nbsp;</p><p>By providing a model for how to simplify and
-  reduce the cost of designing payment interoperability, countries can work with
-  the banks, and mobile money and digital payment providers can develop
-  real-time payment systems that meet the digital financial services needs of
-  emerging markets and the unbanked.&nbsp;</p><p><strong>Building on the
-  Interledger Protocol&nbsp;</strong></p><p>Built upon the Interledger protocol,
-  Mojaloop is an open source platform for digital payments, enabling payments
-  between multiple MNOs, commercial banks, or a central bank to be settled, even
-  though they may be on different networks.</p><p>The Interledger protocol
-  defines a set of rules that enables a network of computers to send 'packets'
-  of value across independent payment networks, in a similar way to how the
-  internet routes packets of information. Interledger&rsquo;s open architecture
-  and minimal protocol enable interoperability for any currency transfer system,
-  with low costs and simple implementation.</p><p>"Mojaloop has taken a lot of
-  the key concepts from Interledger and is applying them to simplify digital
-  payments for the underserved," said Adrian Hope-Bailie, Global Head of
-  Interledger at Coil, Interledger Foundation member and Mojaloop Foundation
-  Member. "Interledger, like Mojaloop, is completely agnostic to how digital
-  money actually moves between participants, which makes it the perfect tool to
-  enable seamless money transfers across all networks, geographies and
-  currencies.&rdquo;&nbsp;</p><p>The Mojaloop Foundation is proud of the
-  advances it&rsquo;s making with the help of Interledger. The Bank of Tanzania
-  is in the process of implementing Mojaloop to serve Tanzanian citizens, and
-  Mowali, a joint venture between mobile network operators Orange and MTN, is an
-  implementation of Mojaloop that has recently gone live. Its services are being
-  phased in across Africa.</p><p>&ldquo;Mojaloop is dedicated to advancing the
-  lives of the underserved by enabling seamless digital financial transactions
-  without the restrictive hurdles that have been barriers in the past,&rdquo;
-  said Paula Hunter, Executive Director, Mojaloop Foundation. &ldquo;With the
-  help of Interledger, we are able to positively impact a population that has
-  historically been excluded from formal financial systems by giving them the
-  ability to pay and receive payment directly from a simple mobile phone, which
-  opens up huge opportunities.&rdquo;&nbsp;</p><p><strong>Financial Inclusion
-  Drives Growth</strong></p><p>If these solutions become widely adopted,
-  interoperable digital financial services could provide many more people with
-  access to important financial tools. Enabling people to use financial services
-  helps them take advantage of opportunities and buffers them from risk, driving
-  economic growth.&nbsp;</p><p>Boosting financial inclusion could add $3.7
-  trillion to emerging countries' GDP by 2025, an increase of 6 percent 'above
-  business as usual,&rsquo; according to McKinsey Global Institute. Initiatives
-  such as Mojaloop and Interledger can play a vital role in making this a
-  reality.</p><p>&nbsp;</p><p>&nbsp;</p>
+  <p><strong>Los pagos trabajan juntos</strong></p><p>La Fundación Mojaloop es una organización benéfica sin fines de lucro con una visión de inclusión financiera universal. Su misión es permitir que los países en desarrollo diseñen servicios financieros digitales que sean accesibles e inclusivos para todos. </p><p>El software de código abierto Mojaloop de la Fundación es un modelo sobre cómo ayudar a las organizaciones a sistemas de pago a plazo que permiten servicios financieros asequibles y sin problemas entre usuarios individuales, bancos, entidades gubernamentales, comerciantes, operadores de redes móviles, proveedores de servicios y empresas de tecnología.</p><p><strong>La interoperabilidad es el desafío</strong>< /p><p>Si bien los servicios de dinero móvil existen en casi 100 países, 1700 millones de personas aún carecen de acceso a los servicios financieros digitales, a pesar de que la mayoría posee un teléfono móvil, según Global Findex del Banco Mundial. Aumentar el acceso a los servicios financieros digitales y las herramientas financieras es fundamental para acelerar el ritmo al que los excluidos financieramente ingresan al sistema financiero formal, especialmente en las economías en desarrollo.</p><p>El desafío principal es que puede ser costoso y complejo construir sistemas interoperables que sean inclusivos para todos. El resultado es que muchos permanecen sin servicios bancarios debido a las altas tarifas de transacción resultantes y los requisitos para ser un cliente a través de múltiples plataformas bancarias, móviles y de pago digital.</p><p>Al proporcionar un modelo sobre cómo simplificar y reducir el costo de diseñar la interoperabilidad de pagos, los países pueden trabajar con los bancos, y los proveedores de pago digital y dinero móvil pueden desarrollar sistemas de pago en tiempo real que satisfagan las necesidades de servicios financieros digitales de los mercados emergentes y los no bancarizados.</p><p ><strong>Desarrollado sobre el protocolo Interledger</strong></p><p>Desarrollado sobre el protocolo Interledger, Mojaloop es una plataforma de código abierto para pagos digitales, que permite pagos entre múltiples MNO, bancos comerciales o un banco central por liquidar, aunque puedan estar en redes diferentes.</p><p>El protocolo Interledger define un conjunto de reglas que permite que una red de computadoras envíe 'paquetes' de valor a través de redes de pago independientes, de manera similar a como el yo Internet enruta paquetes de información. La arquitectura abierta y el protocolo mínimo de Interledger permiten la interoperabilidad con cualquier sistema de transferencia de divisas, con bajos costes y una implementación sencilla.</p><p>"Mojaloop ha tomado muchos de los conceptos clave de Interledger y los está aplicando para simplificar los pagos digitales para los desatendidos", dijo Adrian Hope-Bailie, director global de Interledger en Coil, miembro de la Fundación Interledger y miembro de la Fundación Mojaloop. "Interledger, como Mojaloop, es completamente independiente de cómo se mueve realmente el dinero digital entre los participantes, lo que lo convierte en la herramienta perfecta para permitir transferencias de dinero sin interrupciones en todas las redes, geografías y monedas".</p><p>The Mojaloop Foundation se enorgullece de los avances que está logrando con la ayuda de Interledger. El Banco de Tanzania está en proceso de implementar Mojaloop para servir a los ciudadanos de Tanzania, y Mowali, una empresa conjunta entre los operadores de redes móviles Orange y MTN, es una implementación de Mojaloop que se puso en marcha recientemente. Sus servicios se están implementando gradualmente en toda África.</p><p>&ldquo;Mojaloop se dedica a mejorar las vidas de los desatendidos al permitir transacciones financieras digitales fluidas sin los obstáculos restrictivos que han sido barreras en el pasado ", dijo Paula Hunter, directora ejecutiva de Mojaloop Foundation. "Con la ayuda de Interledger, podemos impactar positivamente en una población que históricamente ha sido exc desprendidos de los sistemas financieros formales al darles la capacidad de pagar y recibir pagos directamente desde un simple teléfono móvil, lo que abre enormes oportunidades".</p><p><strong>La inclusión financiera impulsa el crecimiento</strong> </p><p>Si estas soluciones se adoptan ampliamente, los servicios financieros digitales interoperables podrían proporcionar a muchas más personas acceso a importantes herramientas financieras. Permitir que las personas utilicen los servicios financieros les ayuda a aprovechar las oportunidades y las protege de los riesgos, lo que impulsa el crecimiento económico. por ciento 'por encima de lo habitual',&rsquo; según el Instituto Global McKinsey. Iniciativas como Mojaloop e Interledger pueden desempeñar un papel fundamental para que esto sea una realidad.</p><p>&nbsp;</p><p>&nbsp;</p>
 learn_more_link: 'https://mojaloop.io'
 ---
 
