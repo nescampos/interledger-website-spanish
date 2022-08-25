@@ -1,70 +1,14 @@
 ---
 name:
-title: Reimagining How we Pay for Content and Apps
+title: Reimaginando cómo pagamos por el contenido y las aplicaciones
 subtitle:
 layout: case-studies
 featured_image: /uploads/puma.png
 featured_text: >-
-  Puma is a fast and private mobile Web3 browser that makes it easy to support
-  creators, game & app developers and charities of your choice.
+  Puma es un navegador Web3 móvil rápido y privado que facilita el soporte
+   creadores, desarrolladores de juegos y aplicaciones y organizaciones benéficas de su elección.
 write_up_html: >-
-  <p><strong>A Browser That Serves You, Not Big
-  Advertising</strong></p><p>Founded by Yuriy Dybskiy in 2019, Puma is a mobile
-  Web3 browser that rethinks how we discover and pay for online content, games
-  and services. Today's web is mostly monetized with ads, rewarding big tech
-  companies over individual creators. With this advertising emphasis, companies
-  have strong incentives to track and manipulate users, stripping people of
-  their information while failing to serve the needs of individual creators. It
-  has also become clear that the future of finance is decentralized and going to
-  change drastically thanks to crypto and blockchain innovation, yet it&rsquo;s
-  very hard to use that technology today.</p><p>Puma was created to fix this. It
-  differs from other browsers by enabling direct value transfer between content
-  and game creators and their fans, creating a great alternative to
-  ads.</p><p>As a photographer, Dybskiy had long been interested in how creators
-  and artists could earn a living by monetizing the work they put online. He
-  took issue with the fact that most browsers are monetized by search ads and
-  targeting and are focused on collecting data about content consumers while
-  failing to reward the creators. In late 2018, Dybskiy connected with the
-  creators of Interledger, an open protocol suite for sending payments across
-  different ledgers. Interledger&rsquo;s design caught his eye as a key building
-  block to begin changing the way the internet is monetized &ndash; and how
-  creators can get paid. The idea became obvious: let&rsquo;s build a browser
-  that has Interledger protocol support built in to allow tiny amounts of
-  currency to flow from a webpage viewer to the creator of the page. This
-  approach enables creators to get paid when someone views their content but
-  keeps viewers&rsquo; data private, a significant departure from the
-  traditional internet model.</p><p><strong>Inside It All: the Interledger
-  Protocol</strong></p><p>To make the web monetized model possible, the company
-  partnered with Coil, a multifaceted platform designed to facilitate the
-  monetization of blogs and other creative works by enabling micropayments while
-  web browsing. Users can sign up for a $5 monthly subscription that allows them
-  to stream micropayments to web monetized sites. Coil is built on the
-  Interledger protocol, which is integral to Web Monetization because it
-  facilitates the seamless transfer of funds. Interledger makes it possible for
-  different ledgers to communicate; without the Interledger protocol providing
-  interoperable and scalable payment rails, Web Monetization would not be
-  possible.</p><p>With Interledger and Coil, Puma can automatically send
-  micropayments to monetized sites, across financial platforms and geographical
-  boundaries. Interledger is not tied to a single company, blockchain or
-  currency, which allows for the seamless transfer of funds anywhere around the
-  world.</p><p>&ldquo;The idea behind Puma was simple,&rdquo; said Dybskiy.
-  &ldquo;We wanted to create a way to compensate creators for their work and
-  provide a viewing experience that wasn&rsquo;t degraded by invasive ads, which
-  required rethinking how the internet operates. Interledger makes that
-  possible. We&rsquo;ve already positively impacted the lives of thousands of
-  creators around the world by helping them get paid for their work and earn a
-  living. And as adoption grows, we&rsquo;re looking forward to a bright future
-  where more artists can share their work in a safe and profitable
-  way.&rdquo;</p><p><strong>The Road Ahead</strong></p><p>Since April 2020,
-  Puma&rsquo;s user base has grown more than 35x. Though it's early days for the
-  company, Puma has received strong vocal support from initial users and hosted
-  a conference, &ldquo;<a
-  href="https://www.pumabrowser.com/blog/the-future-of-micropayments-2020-conference-overview">The
-  Future of Micropayments</a>.&rdquo; Early adopters include people who care
-  deeply about privacy, curious developers and creators looking for an
-  alternative to advertising or paywalls for monetizing their content online.
-  The future of Puma is bright, and the team is really excited about what the
-  coming years have in store.</p><p>&nbsp;</p>
+  <p><strong>Un navegador que te sirve, no una gran publicidad</strong></p><p>Fundado por Yuriy Dybskiy en 2019, Puma es un navegador Web3 móvil que replantea cómo descubrimos y pagamos contenido en línea, juegos y servicios. La web actual se monetiza principalmente con anuncios, lo que recompensa a las grandes empresas tecnológicas por encima de los creadores individuales. Con este énfasis publicitario, las empresas tienen fuertes incentivos para rastrear y manipular a los usuarios, despojando a las personas de su información sin satisfacer las necesidades de los creadores individuales. También ha quedado claro que el futuro de las finanzas está descentralizado y va a cambiar drásticamente gracias a la innovación de las criptomonedas y las cadenas de bloques, pero hoy en día es muy difícil usar esa tecnología.</p><p>Puma se creó para solucionar este problema. Se diferencia de otros navegadores porque permite la transferencia directa de valor entre los creadores de contenido y juegos y sus fans, lo que crea una excelente alternativa a los anuncios.</p><p>Como fotógrafo, Dybskiy estuvo interesado durante mucho tiempo en cómo los creadores y artistas podían ganar un viviendo monetizando el trabajo que ponen en línea. Se mostró en desacuerdo con el hecho de que la mayoría de los navegadores se monetizan mediante anuncios de búsqueda y orientación y se centran en recopilar datos sobre los consumidores de contenido sin recompensar a los creadores. A fines de 2018, Dybskiy se conectó con los creadores de Interledger, un paquete de protocolo abierto para enviar pagos a través de diferentes libros de contabilidad. El diseño de Interledger le llamó la atención como un componente clave para comenzar a cambiar la forma en que se monetiza Internet & ndash; y cómo se les puede pagar a los creadores. La idea se volvió obvia: construyamos un navegador que tenga soporte para el protocolo Interledger incorporado para permitir que pequeñas cantidades de dinero fluyan desde el visor de una página web hasta el creador de la página. Este enfoque permite que los creadores cobren cuando alguien ve su contenido, pero mantiene a los espectadores&rsquo; datos privados, una desviación significativa del modelo tradicional de Internet.</p><p><strong>Dentro de todo: el protocolo Interledger</strong></p><p>Para hacer posible el modelo monetizado de la web, la empresa se asoció con Coil, una plataforma multifacética diseñada para facilitar la monetización de blogs y otros trabajos creativos al permitir micropagos durante la navegación web. Los usuarios pueden suscribirse a una suscripción mensual de $5 que les permite transmitir micropagos a sitios web monetizados. Coil se basa en el protocolo Interledger, que es parte integral de la monetización web porque facilita la transferencia de fondos sin problemas. Interledger hace posible que diferentes libros de contabilidad se comuniquen; sin el protocolo Interledger que proporciona vías de pago interoperables y escalables, la monetización web no sería posible.</p><p>Con Interledger y Coil, Puma puede enviar automáticamente micropagos a sitios monetizados, a través de plataformas financieras y fronteras geográficas. Interledger no está vinculado a una sola empresa, cadena de bloques o moneda, lo que permite la transferencia de fondos sin problemas a cualquier parte del mundo.</p><p>&ldquo;La idea detrás de Puma era simple&rdquo; dijo Dybskiy. &ldquo;Queríamos crear una forma de compensar a los creadores por su trabajo y brindar una experiencia de visualización que no fuera degradada por anuncios invasivos, lo que requería repensar cómo funciona Internet. Interledger lo hace posible. Ya hemos tenido un impacto positivo en las vidas de miles de creadores de todo el mundo al ayudarlos a que les paguen por su trabajo y a ganarse la vida. Y a medida que crece la adopción, esperamos un futuro brillante en el que más artistas puedan compartir su trabajo de una manera segura y rentable".</p><p><strong>El camino por delante</strong></p <p>Desde abril de 2020, la base de usuarios de Puma ha crecido más de 35 veces. Aunque es pronto para la empresa, Puma ha recibido un fuerte apoyo vocal de los usuarios iniciales y organizó una conferencia, &ldquo;<a href="https://www.pumabrowser.com/blog/the-future-of-micropayments-2020 -conference-overview">El futuro de los micropagos</a>".&rdquo; Los primeros usuarios incluyen personas que se preocupan profundamente por la privacidad, desarrolladores curiosos y creadores que buscan una alternativa a la publicidad o los muros de pago para monetizar su contenido en línea. El futuro de Puma es brillante y el equipo está muy entusiasmado con lo que les deparará los próximos años.</p><p>&nbsp;</p>
 learn_more_link: 'https://www.pumabrowser.com/'
 ---
 
