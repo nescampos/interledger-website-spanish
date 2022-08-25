@@ -1,78 +1,13 @@
 ---
 name:
-title: 'Cinnamon – Spicing Up Video Creation, Sharing and Monetizing'
+title: 'Cinnamon – Darle vida a la creación, el intercambio y la monetización de videos'
 subtitle:
 layout: case-studies
 featured_image: /uploads/cinnamon-video.png
 featured_text: >-
-  Cinnamon is a new video platform and a tool that enables creators to produce,
-  remix, share, monetize and distribute video across platforms, without ads.
+  Cinnamon es una nueva plataforma de video y una herramienta que permite a los creadores producir,
+  mezclar, compartir, monetizar y distribuir videos a través de plataformas, sin anuncios.
 write_up_html: >-
-  <p><strong>Innovation in Web Monetized Video&nbsp; </strong></p><p>Cinnamon,
-  now in beta, is a new video platform and a tool that enables creators to
-  produce, remix, share, monetize and distribute video across platforms, without
-  ads. Cinnamon uses Coil, a Web Monetization provider leveraging Interledger,
-  to make micropayments to content creators. It also helps artists develop
-  engaging and easily shareable content in a very open community-driven
-  environment. On the Cinnamon platform, viewers will find videos from some of
-  the world's most imaginative and innovative creators.</p><p>Cinnamon offers a
-  unique and intuitive experience. The platform needs no instruction manual; the
-  user experience seamlessly flows from one step to the next. Cinnamon is not
-  positioned as a competitor to existing services, as it offers a different
-  monetization model for creators. However, viewed at a high level, it provides
-  end-users with functionality similar to what's on YouTube, Vimeo and
-  others.</p><p>Founded in 2019, the company is incorporated in Delaware and
-  based in Prague, in the Czech Republic.</p><p><strong>Inventing A Better Way
-  To Treat Video Creators</strong></p><p>Cinnamon's founder R&oacute;bert
-  Tarabč&aacute;k felt that the way creators were treated had to change. Too
-  much content was being simply given away, while existing means of monetization
-  were cumbersome and not favorable to either creators or viewers &ndash; think
-  unsightly ads and access-blocking subscriptions.</p><p>With the launch of
-  Coil, which enables micropayments to websites, Tarabč&aacute;k saw new and
-  exciting use cases for Interledger, an open protocol suite for sending
-  payments across different ledgers. The Interledger protocol functions as a
-  gateway to connect those who send money with those who receive money, and it
-  creates a financial route that is both quicker and cheaper than
-  alternatives.</p><p>Tarabč&aacute;k understood Coil as providing a
-  revolutionary form of monetization. He realized that one of the apps Coil
-  could serve would be a video-streaming service that solved some of the
-  problems that creators run into with existing services &ndash; and
-  monetization via Interledger could be the solution they&rsquo;ve been waiting
-  for. And from that striking idea, Cinnamon was
-  born.</p><p><strong>Interoperability Enabling
-  Access</strong></p><p>Interledger is an open protocol suite for sending
-  payments across different ledgers. Like the internet, connectors route packets
-  of money across independent networks. Interledger's open architecture and
-  minimal protocol enable interoperability for any value transfer system.
-  Interledger is not tied to a single company, blockchain or currency; Cinnamon
-  uses it because it eliminates any central authority.</p><p><strong>Better Web
-  Monetization</strong></p><p>Web Monetization is a key aspect of Cinnamon, and
-  it's enabled by integrating with Coil, which is based on Interledger. Other
-  micropayments models have been tried before, but with mixed results.</p><p>One
-  of the things that makes Coil different is the fact that it&rsquo;s based on
-  the open Interledger protocol. Coil allows micropayments to be sent to
-  creators on Cinnamon for every second of their content being viewed, while
-  viewers watch videos on Cinnamon (and consume Web Monetized content elsewhere)
-  totally ad-free.</p><p>"Think about having a card you scan when you use public
-  transport. Every month you pay $5 and you gain unlimited access to buses,
-  trams, ferries, subways and more. Coil is the public transport card of the
-  internet. As more and more websites and applications proceed to use Coil, you
-  keep gaining more and more access to exclusive content,&rdquo; said
-  Tarabč&aacute;k. &ldquo;We&rsquo;re excited to see Cinnamon blossom into a
-  growing source for some of the most dynamic, engaging and diverse video
-  content on the web, and we&rsquo;re proud to be able to compensate our
-  creators using Interledger and Coil technology."</p><p>Just as in real life,
-  when people pay someone for goods and services in cash, there is a wallet (or
-  pocket) where someone's money is stored. To receive financial rewards from
-  Cinnamon viewers, content creators will need to set up an e-wallet. Coil
-  currently uses Uphold and GateHub.</p><p><strong>How to Enjoy a Taste of
-  Cinnamon</strong></p><p>Due to the new form of content monetization, Cinnamon
-  operates under a different model, compared to other video-sharing platforms.
-  To start using Cinnamon as a viewer:</p><ol><li>Set up a Coil
-  Account</li><li>Sign in to Cinnamon with Coil</li><li>Kick back, relax and
-  enjoy the show!</li></ol><p>With Cinnamon, you will be able to view exclusive
-  content created with the latest monetization and human interaction
-  technologies, allowing content creators to up their game for your
-  enjoyment.</p>
+  <p><strong>Innovación en videos monetizados en la Web&nbsp; </strong></p><p>Cinnamon, ahora en versión beta, es una nueva plataforma de video y una herramienta que permite a los creadores producir, mezclar, compartir, monetizar y distribuir videos entre plataformas, sin anuncios. Cinnamon usa Coil, un proveedor de monetización web que aprovecha Interledger, para realizar micropagos a los creadores de contenido. También ayuda a los artistas a desarrollar contenido atractivo y fácil de compartir en un entorno muy abierto impulsado por la comunidad. En la plataforma Cinnamon, los espectadores encontrarán videos de algunos de los creadores más imaginativos e innovadores del mundo.</p><p>Cinnamon ofrece una experiencia única e intuitiva. La plataforma no necesita manual de instrucciones; la experiencia del usuario fluye sin problemas de un paso al siguiente. Cinnamon no se posiciona como un competidor de los servicios existentes, ya que ofrece un modelo de monetización diferente para los creadores. Sin embargo, visto a un alto nivel, proporciona a los usuarios finales una funcionalidad similar a la que hay en YouTube, Vimeo y otros.</p><p>Fundada en 2019, la empresa está constituida en Delaware y tiene su sede en Praga, en la República Checa. Republic.</p><p><strong>Inventando una mejor manera de tratar a los creadores de videos</strong></p><p>El fundador de Cinnamon, R&oacute;bert Tarabč&aacute;k, sintió que la forma en que se trataba a los creadores tenía que cambiar. Se regalaba demasiado contenido, mientras que los medios existentes de monetización eran engorrosos y no favorecían ni a los creadores ni a los espectadores &ndash; piense en anuncios antiestéticos y suscripciones que bloquean el acceso.</p><p>Con el lanzamiento de Coil, que permite micropagos a sitios web, Tarabčák vio nuevos y emocionantes casos de uso para Interledger, un conjunto de protocolo abierto para enviar pagos a través de diferentes libros de contabilidad. . El protocolo Interledger funciona como una puerta de enlace para conectar a quienes envían dinero con quienes lo reciben, y crea una ruta financiera que es a la vez más rápida y económica que las alternativas.</p><p>Tarabčák entendió que Coil proporcionaba una solución revolucionaria forma de monetización. Se dio cuenta de que una de las aplicaciones que Coil podría servir sería un servicio de transmisión de video que resolviera algunos de los problemas que enfrentan los creadores con los servicios existentes &ndash; y la monetización a través de Interledger podría ser la solución que estaban esperando. Y a partir de esa sorprendente idea nació Cinnamon.</p><p><strong>Interoperabilidad que permite el acceso</strong></p><p>Interledger es un conjunto de protocolos abiertos para enviar pagos a través de diferentes registros. Al igual que Internet, los conectores enrutan paquetes de dinero a través de redes independientes. La arquitectura abierta y el protocolo mínimo de Interledger permiten la interoperabilidad para cualquier sistema de transferencia de valor. Interledger no está vinculado a una sola empresa, cadena de bloques o moneda; Cinnamon lo usa porque elimina cualquier autoridad central.</p><p><strong>Mejor monetización web</strong></p><p>La monetización web es un aspecto clave de Cinnamon, y se habilita al integrarse con Coil , que se basa en Interledger. Se han probado otros modelos de micropagos antes, pero con resultados mixtos.</p><p>Una de las cosas que hace que Coil sea diferente es el hecho de que está basado en el protocolo abierto Interledger. Coil permite que se envíen micropagos a los creadores en Cinnamon por cada segundo de visualización de su contenido, mientras que los espectadores miran videos en Cinnamon (y consumen contenido monetizado en la Web en otros lugares) totalmente libres de publicidad.</p><p>"Piense en tener un tarjeta que escaneas cuando usas el transporte público. Cada mes pagas $5 y obtienes acceso ilimitado a autobuses, tranvías, transbordadores, subterráneos y más. Coil es la tarjeta de transporte público de Internet. A medida que más y más sitios web y aplicaciones proceden a usar Coil, sigues obteniendo más y más acceso a contenido exclusivo", dijo Tarabčák. "Estamos emocionados de ver que Cinnamon se convierte en una fuente creciente de algunos de los contenidos de video más dinámicos, atractivos y diversos de la web". y estamos orgullosos de poder compensar a nuestros creadores con la tecnología Interledger y Coil".</p><p>Al igual que en la vida real, cuando las personas pagan en efectivo por bienes y servicios, hay una billetera (o bolsillo ) donde se almacena el dinero de alguien. Para recibir recompensas financieras de los espectadores de Cinnamon, los creadores de contenido deberán configurar una billetera electrónica. Actualmente, Coil usa Uphold y GateHub.</p><p><strong>Cómo disfrutar del sabor de Cinnamon</strong></p><p>Debido a la nueva forma de monetización de contenido, Cinnamon opera bajo un modelo diferente , en comparación con otras plataformas para compartir videos. Para comenzar a usar Cinnamon como visor:</p><ol><li>Configure una cuenta de Coil</li><li>Inicie sesión en Cinnamon con Coil</li><li>Relájese, relájese y disfrute show!</li></ol><p>Con Cinnamon, podrá ver contenido exclusivo creado con las últimas tecnologías de monetización e interacción humana, lo que permitirá a los creadores de contenido mejorar su juego para su disfrute.</p>
 learn_more_link: 'https://cinnamon.video/ '
 ---
