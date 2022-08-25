@@ -2,13 +2,9 @@
 name: Julaire Hall
 layout: team
 photo_image: /uploads/julaire.png
-role: Programs Outreach Manager
+role: Gerente de Divulgación de Programas
 bio_text: >-
-  Julaire is a highly accomplished project and program management professional with 10+ years of extensive experience in planning, executing, and overseeing the successful delivery of programs in government and the global services sector. She’s previously worked for Jamaica’s investment and promotions agency and the private sector-led industry outsourcing association.
-  
-  As Programs Outreach Manager for the Interledger Foundation, Julaire will help build the programmatic aspects of the Foundation.
-  
-  Julaire enjoys traveling and spending time with her daughter. She’s a children’s book author and blogger.
+  Julaire es un profesional de gestión de proyectos y programas altamente calificado con más de 10 años de amplia experiencia en la planificación, ejecución y supervisión de la entrega exitosa de programas en el gobierno y el sector de servicios globales. Anteriormente trabajó para la agencia de inversiones y promociones de Jamaica y la asociación de subcontratación de la industria liderada por el sector privado. Como Gerente de Difusión de Programas de la Fundación Interledger, Julaire ayudará a construir los aspectos programáticos de la Fundación. Julaire disfruta viajar y pasar tiempo con su hija. Es autora de libros infantiles y bloguera.
 linkedin_link: https://www.linkedin.com/in/julairefhall/
 twitter_link: https://twitter.com/JulaireHall
 ---
