@@ -2,17 +2,16 @@
 name: Alex Lakatos
 layout: team
 photo_image: /uploads/alex-lakatos.jpg
-role: Technology Lead
+role: Líder de Tecnología
 bio_text: >-
-  Alex has spent the past 11 years working on the Open Web within Browser,
-  Communications, and FinTech organizations. With a background in web
-  technologies and developer advocacy, he's helped organizations build
-  developer-friendly products while engaging with the developer community at
-  large. As the Technology Lead for the Interledger Foundation, he focuses on
-  lowering the barrier to entry into the Interledger ecosystem and drive the
-  adoption of the web standards powering the Interledger protocol. An avid
-  traveller, it's likely you'll bump into him at developer conferences around
-  the world.
+  Alex ha pasado los últimos 11 años trabajando en la Web Abierta dentro 
+  de las organizaciones de Navegadores, Comunicaciones y FinTech. Con experiencia 
+  en tecnologías web y defensa de los desarrolladores, ha ayudado a las organizaciones 
+  a crear productos amigables para los desarrolladores mientras interactúa con la 
+  comunidad de desarrolladores en general. Como líder tecnológico de la Fundación Interledger, 
+  se enfoca en reducir la barrera de entrada al ecosistema Interledger e impulsar la adopción 
+  de los estándares web que impulsan el protocolo Interledger. Un ávido viajero, es probable
+  que lo encuentre en conferencias de desarrolladores en todo el mundo.
 linkedin_link: https://www.linkedin.com/in/alexlakatos/
 twitter_link: https://twitter.com/avolakatos
 ---
