@@ -26,10 +26,10 @@ layout: default
           </div>
           <div class="d-none col-xl-3 d-xl-block">
             <div class="position-fixed">
-              <p class="text-uppercase text-bold mb-0">On this Page</p>
+              <p class="text-uppercase text-bold mb-0">En esta página</p>
               {{ page.src | remote | markdownify | toc_only }}
               <hr>
-              <a href="{{ page.src | replace: 'https://raw.githubusercontent.com/interledger/rfcs/master', 'https://github.com/interledger/rfcs/blob/master' }}" class="text-dark d-flex align-items-center"><span class="d-inline-block me-2">view source</span> <i class="ri-github-fill d-inline-block h4 mb-0"></i></a>
+              <a href="{{ page.src | replace: 'https://raw.githubusercontent.com/interledger/rfcs/master', 'https://github.com/interledger/rfcs/blob/master' }}" class="text-dark d-flex align-items-center"><span class="d-inline-block me-2">ver fuente</span> <i class="ri-github-fill d-inline-block h4 mb-0"></i></a>
             </div>
           </div>
         </div>
