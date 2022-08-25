@@ -3,8 +3,7 @@ name: Konstantin (Kosta) Peric
 layout: team
 photo_image:
 role: >-
-  Deputy Director of Financial Services for the Poor, Bill and Melinda Gates
-  Foundation
+  Director Adjunto de Servicios Financieros para los Pobres, Fundación Bill y Melinda Gates
 bio_text:
 linkedin_link:
 twitter_link:
