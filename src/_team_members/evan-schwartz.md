@@ -3,8 +3,7 @@ name: Evan Schwartz
 layout: team
 photo_image:
 role: >-
-  President of the Interledger Foundation, and Co-Creator of the Interledger
-  Protocol
+  Presidente de la Fundación Interledger y cocreador del Protocolo Interledger
 bio_text:
 linkedin_link:
 twitter_link:
