@@ -1,17 +1,17 @@
 ---
 layout: page
-title: Join
+title: Únase
 membership_level:
-  - level: Non-Member
-    level_title: Community Participant
-    pricing: No Fee
+  - level: No miembro
+    level_title: Participante de la comunidad
+    pricing: Sin pago
     feature:
       eligible_for_board_seat:
         available: false
         additional_info:
       eligible_for_council_seat:
         available: true
-        additional_info: One seat via BOD appointment
+        additional_info: Un asiento mediante cita del Directorio
       eligible_for_committee_chair_position:
         available: false
         additional_info:
@@ -42,16 +42,16 @@ membership_level:
       propose_new_work_items:
         available: false
         additional_info:
-  - level: Level 3
-    level_title: Associate Member
+  - level: Nivel 3
+    level_title: Miembro asociado
     pricing: '$500 - $15,000'
     feature:
       eligible_for_board_seat:
         available: true
-        additional_info: One seat via election
+        additional_info: Un escaño por elección
       eligible_for_council_seat:
         available: true
-        additional_info: One seat via BOD appointment
+        additional_info: Un asiento mediante cita del Directorio
       eligible_for_committee_chair_position:
         available: false
         additional_info:
@@ -82,16 +82,16 @@ membership_level:
       propose_new_work_items:
         available: true
         additional_info:
-  - level: Level 2
-    level_title: Promoter Member
+  - level: Nivel 2
+    level_title: Miembro promotor
     pricing: '$15,000 - $100,000'
     feature:
       eligible_for_board_seat:
         available: true
-        additional_info: Two seats via election
+        additional_info: Dos escaños por elección
       eligible_for_council_seat:
         available: true
-        additional_info: Two seats via election
+        additional_info: Dos escaños por elección
       eligible_for_committee_chair_position:
         available: true
         additional_info:
@@ -122,16 +122,16 @@ membership_level:
       propose_new_work_items:
         available: true
         additional_info:
-  - level: Level 1
-    level_title: Strategic Member
-    pricing: Inquire Within
+  - level: Nivel 1
+    level_title: Miembro estratégico
+    pricing: Revisar más
     feature:
       eligible_for_board_seat:
         available: true
-        additional_info: Guaranteed
+        additional_info: Garantizado
       eligible_for_council_seat:
         available: true
-        additional_info: Guaranteed
+        additional_info: Garantizado
       eligible_for_committee_chair_position:
         available: true
         additional_info:
@@ -169,23 +169,23 @@ membership_level:
     <div class="row || centered">
       <div class="col-12 col-lg-4 text-center text-md-start">
         <div class="editable">
-          <h1>Join the Interledger Foundation</h1>
-          <p>There are so many ways you can help the Interledger Foundation achieve its mission of connecting everyone to their futures. Your support will help the Foundation expand its education, community programming and global reach.</p>
-          <p>We are seeking to build a diverse group of members from financial institutions, tech companies, academia, web advocacy and open standards enthusiasts to help shape the future of The Interledger Foundation, Interledger Protocol and its community programming.<a href="#join-interledger"> Inquire Now</a></p>
+          <h1>Únase a la Fundación Interledger</h1>
+          <p>Hay tantas maneras en que puede ayudar a la Fundación Interledger a lograr su misión de conectar a todos con su futuro. Su apoyo ayudará a la Fundación a expandir su educación, programación comunitaria y alcance global.</p>
+          <p>Buscamos crear un grupo diverso de miembros de instituciones financieras, empresas de tecnología, academia, defensores de la web y entusiastas de los estándares abiertos para ayudar a dar forma al futuro de la Fundación Interledger, el Protocolo Interledger y su programación comunitaria.<a href="#join-interledger"> Únase ahora</a></p>
         </div>
-        <p>Members will work with The Interledger Foundation to:</p>
+        <p>Los miembros trabajarán con la Fundación Interledger para:</p>
         <ul class="text-start ps-0 px-md-5 hollow-bullet">
           <li class="text-small editable">
-            Broaden global awareness of the mission
+            Ampliar la conciencia global de la misión.
           </li>
           <li class="text-small editable">
-            Encourage adoption of Interledger Protocol
+            Fomentar la adopción del Protocolo Interledger
           </li>
           <li class="text-small editable">
-            Contribute to community programming
+            Contribuir a la programación comunitaria.
           </li>
           <li class="text-small editable">
-            Maintain, build and oversee new technology solutions
+            Mantener, construir y supervisar nuevas soluciones tecnológicas.
           </li>
         </ul>
       </div>
@@ -201,7 +201,7 @@ membership_level:
     <div class="row ">
       <div class="col-12 text-center ">
         <h1 class="text-hero text-white editable">
-          Become A Member
+          Conviértase en miembro
         </h1>
       </div>
     </div>
@@ -209,13 +209,13 @@ membership_level:
       <div class="col-12">
         <div class="card p-5">
           <h2 class="h3 text-primary text-center text-uppercase editable">
-            Membership Levels and Benefits
+            Niveles de membresía y beneficios
           </h2>
           <div class="container">
 
             <div class="row border-bottom-gray-thick mt-5 pb-3">
               <div class="col-4">
-                <h4>Benefit</h4>
+                <h4>Beneficio</h4>
               </div>
               {% for benefit in page.membership_level %}
               <div class="col text-center">
@@ -226,7 +226,7 @@ membership_level:
 
             <div class="row border-bottom-gray-thin mt-4">
               <div class="col-4">
-                <p class="text-semi text-uppercase">Pricing</p>
+                <p class="text-semi text-uppercase">Precio</p>
               </div>
               {% for pricing in page.membership_level %}
               <div class="col text-center">
@@ -237,7 +237,7 @@ membership_level:
 
             <div class="row border-bottom-gray-thin mt-3 centered">
               <div class="col-4">
-                <p>Eligible for Board of Directors (BoD) seat</p>
+                <p>Elegible para un asiento en la Junta Directiva (BoD)</p>
               </div>
               {% for bodseat in page.membership_level %}
               {% assign available = bodseat.feature.eligible_for_board_seat.available %}
@@ -255,7 +255,7 @@ membership_level:
 
             <div class="row border-bottom-gray-thin mt-3 centered">
               <div class="col-4">
-                <p>Eligible for seat on Councils</p>
+                <p>Elegible para un asiento en los Consejos</p>
               </div>
               {% for concilseat in page.membership_level %}
               {% assign available = concilseat.feature.eligible_for_council_seat.available %}
@@ -273,7 +273,7 @@ membership_level:
 
             <div class="row border-bottom-gray-thin mt-3 centered">
               <div class="col-4">
-                <p>Eligible for Committee Chair position</p>
+                <p>Elegible para el puesto de presidente del comité</p>
               </div>
               {% for committeeseat in page.membership_level %}
               {% assign available = committeeseat.feature.eligible_for_committee_chair_position.available %}
@@ -291,7 +291,7 @@ membership_level:
 
             <div class="row border-bottom-gray-thin mt-3 centered">
               <div class="col-4">
-                <p>May participate in Committees</p>
+                <p>Puede participar en Comités</p>
               </div>
               {% for committeeparticipation in page.membership_level %}
               {% assign available = committeeparticipation.feature.eligible_for_committee_participation.available %}
@@ -309,7 +309,7 @@ membership_level:
 
             <div class="row border-bottom-gray-thin mt-3 centered">
               <div class="col-4">
-                <p>Voting Rights within Working Groups</p>
+                <p>Derechos de voto dentro de los grupos de trabajo</p>
               </div>
               {% for voting in page.membership_level %}
               {% assign available = voting.feature.working_group_voting_rights.available %}
@@ -327,7 +327,7 @@ membership_level:
 
             <div class="row border-bottom-gray-thin mt-3 centered">
               <div class="col-4">
-                <p>May participate in Working Groups</p>
+                <p>Puede participar en Grupos de Trabajo</p>
               </div>
               {% for workinggroup in page.membership_level %}
               {% assign available = workinggroup.feature.working_group_participation.available %}
@@ -345,7 +345,7 @@ membership_level:
 
             <div class="row border-bottom-gray-thin mt-3 centered">
               <div class="col-4">
-                <p>Personalized payment pointer on website</p>
+                <p>Puntero de pago personalizado en el sitio web</p>
               </div>
               {% for paymentpointer in page.membership_level %}
               {% assign available = paymentpointer.feature.personalized_payment_pointer.available %}
@@ -363,7 +363,7 @@ membership_level:
 
             <div class="row border-bottom-gray-thin mt-3 centered">
               <div class="col-4">
-                <p>Attend F2F events</p>
+                <p>Asistir a eventos F2F</p>
               </div>
               {% for f2f in page.membership_level %}
               {% assign available = f2f.feature.attend_f2f_events.available %}
@@ -381,7 +381,7 @@ membership_level:
 
             <div class="row border-bottom-gray-thin mt-3 centered">
               <div class="col-4">
-                <p>Access to standards in process</p>
+                <p>Acceso a normas en proceso</p>
               </div>
               {% for standards in page.membership_level %}
               {% assign available = standards.feature.access_standards_in_process.available %}
@@ -399,7 +399,7 @@ membership_level:
 
             <div class="row border-bottom-gray-thin mt-3 centered">
               <div class="col-4">
-                <p>Access to code development in process</p>
+                <p>Acceso al desarrollo de código en proceso</p>
               </div>
               {% for code in page.membership_level %}
               {% assign available = code.feature.access_code_development_in_process.available %}
@@ -417,7 +417,7 @@ membership_level:
 
             <div class="row border-bottom-gray-thin mt-3 centered">
               <div class="col-4">
-                <p>Access to published documents</p>
+                <p>Acceso a los documentos publicados</p>
               </div>
               {% for docs in page.membership_level %}
               {% assign available = docs.feature.access_published_documents.available %}
@@ -435,7 +435,7 @@ membership_level:
 
             <div class="row mt-3 centered">
               <div class="col-4">
-                <p>May propose new work items</p>
+                <p>Puede proponer nuevos elementos de trabajo</p>
               </div>
               {% for newwork in page.membership_level %}
               {% assign available = newwork.feature.propose_new_work_items.available %}
@@ -464,10 +464,10 @@ membership_level:
     <div class="row mb-4">
       <div class="col-12 text-center ">
         <h1 class="text-hero text-white editable">
-          Become A Member
+          Conviértase en miembro
         </h1>
         <h2 class="text-hero text-white editable">
-          Organization Membership Levels and Benefits
+          Beneficios y niveles de membresía de la organización
         </h2>
       </div>
 
@@ -481,7 +481,7 @@ membership_level:
     <div class="row">
       <div class="col-12 text-center">
         <h2 class="text-bold editable">
-          For Membership Inquiries
+          Para consultas de membresía
         </h2>
         <div class="cognito mt-3">
           <script src="https://www.cognitoforms.com/s/bbN8iw1MJUqjPe6aHn-_rw"></script>
