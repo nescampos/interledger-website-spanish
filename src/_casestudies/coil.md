@@ -1,75 +1,15 @@
 ---
 name: Coil
-title: 'Empowering – and Paying – Creators, Worldwide'
+title: 'Empoderar y pagar a los creadores de todo el mundo'
 subtitle:
 layout: case-studies
 featured_image: /uploads/coil-casestudy.png
 featured_text: >-
-  Coil is an emerging content platform using the Interledger Protocol to build
-  streaming browser payments to your favorite artists, publishers and gamers. No
-  ads, no paywalls, and no trackers.
+  Coil es una plataforma de contenido emergente que utiliza el Protocolo Interledger para construir
+   pagos a través del navegador a sus artistas, editores y jugadores favoritos. Sin
+   anuncios, sin muros de pago y sin rastreadores.
 write_up_html: >-
-  <p><strong>The Money Transfer Challenge</strong></p><p>Coil was founded in
-  2018 by Stefan Thomas with a vision to create a better business model for the
-  Web. As a Web Monetization provider, Coil facilitates the monetization of
-  content by sending micropayments to each web-monetized website while browsing.
-  The goal is to ensure that content creators all over the world can be fairly
-  and easily compensated for their work.</p><p>Open Web Monetization stands in
-  contrast to the existing advertising and subscription platform monetization
-  models that strongly favor large advertising networks and content platforms.
-  It is simply not cost effective using traditional payment methods to send a
-  fraction of a penny for a single article, image, song or video on an
-  independent website. And even when the amounts are large enough, high fees for
-  international transactions, and incompatible wallets in different countries,
-  create friction for both creators and their fans. These hurdles are difficult
-  for many, but they hit unbanked and financially underserved populations around
-  the world the hardest, often excluding them from being paid for their work or
-  being forced to accept painful fees, delays, and risks.</p><p><strong>The Web
-  Monetization Model</strong></p><p>Coil is dedicated to providing better ways
-  to access and compensate content creators, publishers and small- to
-  medium-sized platforms, without relying on advertising or subscription models.
-  The company achieves this with an open standard called Web Monetization. Coil
-  builds on open standards to encourage competition and ensure compatibility
-  with any payment service and currency.</p><p>The idea is relatively simple:
-  users sign up for a $5 Coil membership using a debit or credit card and can
-  then browse the web with a micropayments-enabled browser (such as<a
-  href="https://www.pumabrowser.com/"> </a><a
-  href="https://www.pumabrowser.com/">Puma</a>), or by using a<a
-  href="https://help.coil.com/docs/membership/coil-extension/"> </a><a
-  href="https://help.coil.com/docs/membership/coil-extension/">Coil browser
-  extension</a>. As they visit web-monetized sites, micropayments are streamed
-  from Coil to the website for every second Coil members read, watch and
-  listen.</p><p>On the other side of the equation are the creators, those who
-  want to monetize their sites. Creators start by creating a digital wallet
-  through a service like Uphold or GateHub, and then monetize their site by
-  adding an HTML tag that points to their wallet. Payments then stream into
-  their wallet as visitors consume their content.</p><p>So how are these
-  payments made possible? That&rsquo;s where Interledger comes in.</p><p>The
-  Interledger Protocol enables Web Monetization by facilitating the seamless
-  transfer of funds. Funds can be sent instantly to Interledger-enabled wallets
-  with near-zero cost, regardless of the currencies used. Without the
-  Interledger protocol providing interoperable and scalable payment rails, Web
-  Monetization would be impossible to implement. Coil would need to integrate
-  with every wallet individually, which is impossible on a global
-  scale.</p><p><strong>The Monetized Web of the Future</strong></p><p>Looking
-  forward, the future for Coil and Interledger is bright. Web Monetization is
-  easy to use, and adoption is growing. Interledger was purposely built to
-  accommodate this growth. The Interledger packet header includes only four key
-  elements &ndash; the address to send the money to, the amount of money being
-  sent, a condition to ensure payments are received securely and an expiration
-  date. Keeping the standard minimal helps ensure Interledger won't become
-  outdated as payments technology evolves.</p><p>&ldquo;Streaming micropayments
-  is only the beginning,&rdquo; said Thomas. &ldquo;We see Web Monetization as a
-  beachhead for Interledger which will transform the payments industry in ways
-  we cannot even imagine yet. We've seen the power of packet switching
-  infrastructure in the success of the internet and this same revolution simply
-  hasn't happened yet for payments. I believe that using Interledger, it will
-  become possible for millions of developers to easily create efficient,
-  inclusive, easy-to-use payment applications that move money globally just like
-  the internet did for communication applications.&rdquo;</p><p>Using
-  Interledger, Coil has the potential to improve the experience for both
-  creators and consumers. Ultimately, this will change the way consumers access
-  content and compensate content creators.</p><p>&nbsp;</p>
+  <p><strong>El desafío de la transferencia de dinero</strong></p><p>Coil fue fundada en 2018 por Stefan Thomas con la visión de crear un mejor modelo comercial para   la Web. Como proveedor de monetización web, Coil facilita la monetización del contenido mediante el envío de micropagos a cada sitio web monetizado durante la navegación. El objetivo es garantizar que los creadores de contenido de todo el mundo puedan recibir una compensación justa y sencilla por su trabajo.</p><p>La monetización web abierta contrasta con los modelos de monetización de plataformas de suscripción y publicidad existentes que favorecen en gran medida a las grandes redes de publicidad. y plataformas de contenido. Simplemente no es rentable usar métodos de pago tradicionales para enviar una fracción de un centavo por un solo artículo, imagen, canción o video en un sitio web independiente. E incluso cuando los montos son lo suficientemente grandes, las altas tarifas por transacciones internacionales y las billeteras incompatibles en diferentes países crean fricciones tanto para los creadores como para sus fanáticos. Estos obstáculos son difíciles para muchos, pero afectan más a las poblaciones sin servicios bancarios y económicamente desatendidas en todo el mundo, a menudo excluyéndolos de recibir un pago por su trabajo o viéndolos obligados a aceptar costos, demoras y riesgos dolorosos.</p><p> <strong>El modelo de monetización web</strong></p><p>Coil se dedica a proporcionar mejores formas de acceder y compensar a los creadores de contenido, editores y plataformas de tamaño pequeño a mediano, sin depender de modelos de suscripción o publicidad. La empresa logra esto con un estándar abierto llamado Web Monetization. Coil se basa en estándares abiertos para fomentar la competencia y garantizar la compatibilidad con cualquier servicio de pago y moneda.</p><p>La idea es relativamente simple: los usuarios se registran para obtener una membresía de Coil de $ 5 con una tarjeta de débito o crédito y luego pueden navegar por la web con un navegador habilitado para micropagos (como <a href="https://www.pumabrowser.com/"> </a><a href="https://www.pumabrowser.com/">Puma< /a>), o usando una <a href="https://help.coil.com/docs/membership/coil-extension/"> </a><a href="https://help.coil .com/docs/membership/coil-extension/">Extensión del navegador Coil</a>. A medida que visitan sitios web monetizados, los micropagos se transmiten desde Coil al sitio web por cada segundo que los miembros de Coil leen, miran y escuchan.</p><p>En el otro lado de la ecuación están los creadores, aquellos que quieren monetizar sus sitios. Los creadores comienzan creando una billetera digital a través de un servicio como Uphold o GateHub, y luego monetizan su sitio agregando una etiqueta HTML que apunta a su billetera. Luego, los pagos se transmiten a su billetera a medida que los visitantes consumen su contenido.</p><p>Entonces, ¿cómo se hacen posibles estos pagos? Ahí es donde interviene Interledger.</p><p>El protocolo Interledger permite la monetización web al facilitar la transferencia de fondos sin inconvenientes. Los fondos se pueden enviar instantáneamente a billeteras habilitadas para Interledger con un costo cercano a cero, independientemente de las monedas utilizadas. Sin el protocolo Interledger que proporciona vías de pago interoperables y escalables, la monetización web sería imposible de implementar. Coil necesitaría integrarse con cada billetera individualmente, lo cual es imposible a escala global.</p><p><strong>La web monetizada del futuro</strong></p><p>Mirando hacia el futuro, el futuro para Coil e Interledger es brillante. La monetización web es fácil de usar y la adopción está creciendo. Interledger se creó a propósito para adaptarse a este crecimiento. El encabezado del paquete Interledger incluye solo cuatro elementos clave: la dirección a la que se envía el dinero, la cantidad de dinero que se envía, una condición para garantizar que los pagos se reciban de forma segura y una fecha de vencimiento. Mantener el estándar mínimo ayuda a garantizar que Interledger no quede obsoleto a medida que evoluciona la tecnología de pagos.</p><p>&ldquo;Transmitir micropagos es solo el comienzo&rdquo; dijo Tomás. "Vemos la monetización web como una cabeza de puente para Interledger que transformará la industria de pagos de formas que ni siquiera podemos imaginar todavía". Hemos visto el poder de la infraestructura de conmutación de paquetes en el éxito de Internet y esta misma revolución simplemente no ha ocurrido todavía para los pagos. Creo que con Interledger, será posible que millones de desarrolladores creen fácilmente aplicaciones de pago eficientes, inclusivas y fáciles de usar que muevan dinero a nivel mundial tal como lo hizo Internet para las aplicaciones de comunicación".</p><p> Usando Interledger, Coil tiene el potencial de mejorar la experiencia tanto para los creadores como para los consumidores. En última instancia, esto cambiará la forma en que los consumidores acceden al contenido y compensará a los creadores de contenido.</p><p>&nbsp;</p>
 learn_more_link: 'https://coil.com/'
 ---
 
