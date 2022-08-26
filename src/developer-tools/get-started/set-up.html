@@ -1,6 +1,6 @@
 ---
 layout: developer-tools
-title: Setup and Use Interledger Accounts
+title: Configuración y uso de cuentas de Interledger
 ---
 
 <section class="dev-tools-content-wrapper">
@@ -8,66 +8,66 @@ title: Setup and Use Interledger Accounts
     <div class="row">
       <div class="col-12 col-xl-10 px-0 px-lg-4 ">
         <div class="editable">
-          <h1>Get Started With Interledger Accounts</h1>
-          <p>Make payments on a testnet.</p>
-          <p>To get started using Interledger, we'll walk through using a test network, which uses fake money, rather than transferring real value. This Interledger testnet is currently maintained by teams at&nbsp;<a target="_blank" href="https://ripple.com/ripplex/">RippleX&nbsp;<em></em></a>&nbsp;and&nbsp;<a target="_blank" href="https://coil.com/">Coil</a>, but anyone can join.</p>
-          <p>The RippleX and Rafiki testnet connectors, both used in this tutorial, together form a network for users to practice sending and receiving test currency values.</p>
-          <p>With Interledger, all currency pairs that senders and receivers use are supported. For simplicity, this tutorial demonstrates sending and receiving test XRP only, but in practice senders and receivers can use different currencies.</p>
-          <p>This tutorial describes two ways to create an Interledger account to send and receive test funds:</p>
+          <h1>Comience con las cuentas Interledger</h1>
+          <p>Realice pagos en una red de prueba.</p>
+          <p>Para comenzar a usar Interledger, veremos cómo usar una red de prueba, que usa dinero falso, en lugar de transferir valor real. Esta red de prueba de Interledger actualmente es mantenida por equipos en&nbsp;<a target="_blank" href="https://ripple.com/ripplex/">RippleX&nbsp;<em></em></a>&nbsp;y&nbsp;< a target="_blank" href="https://coil.com/">Coil</a>, pero cualquiera puede unirse.</p>
+          <p>Los conectores de red de prueba RippleX y Rafiki, ambos utilizados en este tutorial, juntos forman una red para que los usuarios practiquen el envío y la recepción de valores de moneda de prueba.</p>
+          <p>Con Interledger, se admiten todos los pares de divisas que utilizan los remitentes y los destinatarios. Para simplificar, este tutorial demuestra el envío y la recepción de XRP de prueba solamente, pero en la práctica, los remitentes y los receptores pueden usar diferentes monedas.</p>
+          <p>Este tutorial describe dos formas de crear una cuenta de Interledger para enviar y recibir fondos de prueba:</p>
           <ul>
-            <li>With an <a target="_blank" href="https://wallet.ilpv4.dev/">ilpv4.dev&nbsp;<em></em></a>&nbsp;account</li>
-            <li>With a&nbsp;<a target="_blank" href="https://rafiki.money/">rafiki.money&nbsp;<em></em></a>&nbsp;account</li>
+            <li>Con una cuenta <a target="_blank" href="https://wallet.ilpv4.dev/">ilpv4.dev&nbsp;<em></em></a>&nbsp;</li>
+            <li>Con &nbsp;<a target="_blank" href="https://rafiki.money/">rafiki.money &nbsp;<em></em></a>&nbsp;cuenta</li>
           </ul>
-          <p>Both of these types of Interledger accounts allow you to send and receive test funds, and are useful for developing and testing apps. These types of accounts can also be referred to as "wallet" accounts.</p>
-          <p>You can also interact with these wallets programmatically. See&nbsp;<a href="https://interledger.org/developer-tools/get-started/manage-accounts/">Manage Interledger programmaticallly</a>.</p>
-          <p>If you want to send&nbsp;<em>actual</em>&nbsp;value in your app with an Interledger account, refer to the following open-source projects (contributions welcome):</p>
+          <p>Ambos tipos de cuentas de Interledger le permiten enviar y recibir fondos de prueba y son útiles para desarrollar y probar aplicaciones. Estos tipos de cuentas también pueden denominarse cuentas de "billetera".</p>
+          <p>También puede interactuar con estas billeteras mediante programación. Consulte&nbsp;<a href="https://interledger.org/developer-tools/get-started/manage-accounts/">Gestionar Interledger programáticamente</a>.</p>
+          <p>Si desea enviar&nbsp;<em>valor real</em>&nbsp;en su aplicación con una cuenta de Interledger, consulte los siguientes proyectos de código abierto (contribuciones bienvenidas):</p>
           <ul>
-            <li><a target="_blank" href="https://connector.interledger4j.dev/">Java Connector&nbsp;<em></em></a>&nbsp;&mdash; Not actively maintained, but the development team is open to hearing about <a href="https://feedback.interledger4j.dev/">new feature requests</a>.</li>
-            <li><a target="_blank" href="http://interledger.rs/">Rust Connector&nbsp;<em></em></a>&nbsp;&mdash; Not actively maintained, but recommended to get started for its ease of use and feature-set.</li>
-            <li><a target="_blank" href="https://github.com/interledgerjs/ilp-connector">Javascript Connector&nbsp;<em></em></a>&nbsp;&mdash; Battle-tested in production.</li>
+            <li><a target="_blank" href="https://connector.interledger4j.dev/">Conector Java&nbsp;<em></em></a>&nbsp;&mdash; No se mantiene activamente, pero el equipo de desarrollo está abierto a escuchar sobre <a href="https://feedback.interledger4j.dev/">solicitudes de nuevas funciones</a>.</li>
+            <li><a target="_blank" href="http://interledger.rs/">Conector Rust&nbsp;<em></em></a>&nbsp;&mdash; No se mantiene activamente, pero se recomienda comenzar por su facilidad de uso y conjunto de funciones.</li>
+            <li><a target="_blank" href="https://github.com/interledgerjs/ilp-connector">Conector Javascript&nbsp;<em></em></a>&nbsp;&mdash; Probado en producción.</li>
           </ul>
-          <h3>1. Create Interledger Wallet Accounts</h3>
-          <p>For this tutorial, you should create both a RippleX and rafiki.money wallet account.</p>
-          <h4>CREATE A RIPPLEX ACCOUNT</h4>
+          <h3>1. Crear cuentas de billetera Interledger</h3>
+          <p>Para este tutorial, debe crear una cuenta de billetera RippleX y rafiki.money.</p>
+          <h4>CREAR UNA CUENTA RIPPLEX</h4>
           <ol>
-            <li>Navigate to <a target="_blank" href="https://wallet.ilpv4.dev">https://wallet.ilpv4.dev</a> and click&nbsp;<code>Sign in</code>.</li>
-            <li>NOTE: Only use Github login!</li>
+            <li>Vaya a <a target="_blank" href="https://wallet.ilpv4.dev">https://wallet.ilpv4.dev</a> y haga clic en &nbsp;<code>Iniciar sesión</code>.</li>
+            <li>NOTA: ¡Solo use el inicio de sesión de Github!</li>
           </ol>
-          <h4>CREATE AN ACCOUNT AT HTTPS://RAFIKI.MONEY</h4>
-          <p>The&nbsp;<a target="_blank" href="https://rafiki.money/">rafiki.money&nbsp;<em></em></a>&nbsp;site also allows you to create an Interledger-enabled wallet that is compatible with the testnet wallet provided by RippleX. Use the following instructions to get setup:</p>
+          <h4>CREA UNA CUENTA EN HTTPS://RAFIKI.MONEY</h4>
+          <p>El&nbsp;<a target="_blank" href="https://rafiki.money/">rafiki.money&nbsp;<em></em></a>&nbsp;sitio también le permite crear una billetera habilitada para Interledger que es compatible con la billetera testnet proporcionada por RippleX. Use las siguientes instrucciones para obtener la configuración:</p>
           <ol>
-            <li>Open&nbsp;<a target="_blank" href="https://rafiki.money/">rafiki.money&nbsp;<em></em></a>.</li>
-            <li>Click&nbsp;<strong>Create an account</strong>&nbsp;and follow the instructions.</li>
-            <li>Click&nbsp;<strong>Add account</strong>&nbsp;and enter a name for your account to create a new one. You can create multiple accounts if you want.</li>
-            <li>Click&nbsp;<strong>No default account set for Payment pointer. Click here to assign default account</strong>.</li>
-            <li>From the&nbsp;<strong>Default Account</strong>&nbsp;dropdown list, select an account and click&nbsp;<strong>Submit</strong></li>
-            <li>Notice that you can send test XRP from any of these accounts, but the default account will be the recipient of any incoming testnet funds sent from another account.</li>
+            <li>Abra&nbsp;<a target="_blank" href="https://rafiki.money/">rafiki.money&nbsp;<em></em></a>.</li>
+            <li>Haga clic en&nbsp;<strong>Crear una cuenta</strong>&nbsp;y sigue las instrucciones.</li>
+            <li>Haga clic en&nbsp;<strong>Agregar cuenta</strong>&nbsp;e ingrese un nombre para su cuenta para crear una nueva. Puede crear varias cuentas si lo desea.</li>
+            <li>Haga clic en&nbsp;<strong>No se ha establecido una cuenta predeterminada para el indicador de pago. Haga clic aquí para asignar una cuenta predeterminada</strong>.</li>
+            <li>En la lista desplegable&nbsp;<strong>Cuenta predeterminada</strong>&nbsp;, seleccione una cuenta y haga clic en&nbsp;<strong>Enviar</strong></li>
+            <li>Tenga en cuenta que puede enviar XRP de prueba desde cualquiera de estas cuentas, pero la cuenta predeterminada será el destinatario de los fondos de prueba entrantes enviados desde otra cuenta.</li>
           </ol>
-          <h3>2. Locate Your Own Payment Pointer</h3>
+          <h3>2. Localice su propio puntero de pago</h3>
           <ol>
-            <li>In each wallet, you will see a page with a payment pointer in the following formats:&nbsp;<code>$money.ilpv4.dev/{your-account-name}</code>&nbsp;(RippleX Wallet) and&nbsp;<code>rafiki.money/p/{user-id}</code>&nbsp;(Rafki Money). As indicated by the payment pointer, each wallet is Interledger-enabled.</li>
-            <li>To add funds to your Rafki wallet, click the&nbsp;<code>Add Funds</code>&nbsp;button.</li>
-            <li>To add funds to your RippleX wallet, click the&nbsp;<code>Make it rain</code>&nbsp;button.</li>
-            <li>If you want someone to pay you, provide them with your payment pointer. That's it!</li>
+            <li>En cada billetera, verá una página con un indicador de pago en los siguientes formatos:&nbsp;<código>$money.ilpv4.dev/{nombre-de-su-cuenta}</código>&nbsp;(RippleX Wallet) y&nbsp;< código>rafiki.money/p/{user-id}</code>&nbsp;(Rafki Money). Como lo indica el indicador de pago, cada billetera está habilitada para Interledger.</li>
+            <li>Para agregar fondos a su billetera Rafki, haga clic en el botón&nbsp;<code>Agregar fondos</code>&nbsp;.</li>
+            <li>Para agregar fondos a su billetera RippleX, haga clic en el botón&nbsp;<code>Hacer que llueva</code>&nbsp;.</li>
+            <li>Si desea que alguien le pague, proporcióneles su indicador de pago. ¡Eso es todo!</li>
           </ol>
-          <p>Note that when you subsequently log in to either testnet account, you will see the current state of your wallet with the current amount of test XRP. Your accounts can receive test XRP when you are not logged in.</p>
-          <h3>3. Send Money Between Interledger Wallets</h3>
-          <p>Once you have testnet funds in one of your wallets, you can send those funds to any other Interledger-enabled wallet.</p>
+          <p>Tenga en cuenta que cuando inicie sesión posteriormente en cualquiera de las cuentas de testnet, verá el estado actual de su billetera con la cantidad actual de XRP de prueba. Sus cuentas pueden recibir XRP de prueba cuando no haya iniciado sesión.</p>
+          <h3>3. Enviar dinero entre monederos de Interledger</h3>
+          <p>Una vez que tenga fondos de testnet en una de sus billeteras, puede enviar esos fondos a cualquier otra billetera habilitada para Interledger.</p>
           <ol>
-            <li>Use the RippleX Wallet you created earlier at <a target="_blank" href="https://wallet.ilpv4.dev">https://wallet.ilpv4.dev</a>.</li>
-            <li>Decide the amount of XRP that you want to send.</li>
-            <li>Decide to which payment pointer you want to send test XRP to (hint: try one from&nbsp;<a target="_blank" href="https://rafiki.money/">https://rafiki.money&nbsp;<em></em></a>).</li>
-            <li>Click <strong>Send</strong>.</li>
+            <li>Use la billetera RippleX que creó anteriormente en <a target="_blank" href="https://wallet.ilpv4.dev">https://wallet.ilpv4.dev</a>.</li>
+            <li>Decida la cantidad de XRP que quieres enviar.</li>
+            <li>Decida a qué puntero de pago desea enviar XRP de prueba (sugerencia: pruebe uno de&nbsp;<a target="_blank" href="https://rafiki.money/">https://rafiki.money&nbsp;<em> </em></a>).</li>
+            <li>Haga clic en <strong>Enviar</strong>.</li>
           </pre>
           </ol>
-          <p>The amount of test XRP in the sender account adjusts to the new value. At the same time, if you have your rafiki.money wallet account open in another tab, you will see your balance in that wallet account go up.</p>
-          <p>Next, send the money back via the following steps:</p>
+          <p>La cantidad de XRP de prueba en la cuenta del remitente se ajusta al nuevo valor. Al mismo tiempo, si tiene su cuenta de billetera rafiki.money abierta en otra pestaña, verá que su saldo en esa cuenta de billetera aumenta.</p>
+          <p>A continuación, devuelva el dinero siguiendo los siguientes pasos:</p>
           <ol>
-            <li>On the rafiki.money home page, click the account you want to use to send test XRP.</li>
-            <li>Click&nbsp;<strong>Send</strong>&nbsp;button (found in the upper-left of the screen).</li>
-            <li>Enter your RippleX&nbsp;<strong>Payment Pointer</strong>, the&nbsp;<strong>Amount (XRP)</strong>, and click&nbsp;<strong>Send</strong>.</li>
+            <li>En la página de inicio de rafiki.money, haga clic en la cuenta que desea usar para enviar XRP de prueba.</li>
+            <li>Haga clic en el botón&nbsp;<strong>Enviar</strong>&nbsp;(que se encuentra en la parte superior izquierda de la pantalla).</li>
+            <li>Ingrese su&nbsp;<strong>puntero de pago</strong> de RippleX, el&nbsp;<strong>Importe (XRP)</strong> y haga clic en&nbsp;<strong>Enviar</strong>.</li>
           </ol>
-          <p>Experiment with sending and receiving test funds between payment pointers on different sites, adding more test funds to your accounts as desired. In this tutorial, there are no transaction costs for sending and receiving test funds, but a different Interledger implementation could impose transaction costs.</p>
+          <p>Experimente enviando y recibiendo fondos de prueba entre punteros de pago en diferentes sitios, agregando más fondos de prueba a sus cuentas según lo desee. En este tutorial, no hay costos de transacción para enviar y recibir fondos de prueba, pero una implementación diferente de Interledger podría imponer costos de transacción.</p>
         </div>
       </div>
     </div>
